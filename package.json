@@ -1,0 +1,23 @@
+{
+  "name": "self-destruction",
+  "version": "0.1.0",
+  "description": "alexa self destruction skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyyan/alexa-self-destruction.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill"
+  ],
+  "author": "Hyyan Abo Fakher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyyan/alexa-self-destruction/issues"
+  },
+  "homepage": "https://github.com/hyyan/alexa-self-destruction#readme"
+}
