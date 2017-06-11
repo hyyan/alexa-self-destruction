@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hyyan/alexa-self-destruction/issues"
   },
-  "homepage": "https://github.com/hyyan/alexa-self-destruction#readme"
+  "homepage": "https://github.com/hyyan/alexa-self-destruction#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1"
+  }
 }
